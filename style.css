@@ -9,6 +9,7 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+<link rel="stylesheet" href+"css/style.css">
 
 body p,
 body h1,
